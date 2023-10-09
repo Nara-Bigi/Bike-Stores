@@ -11,10 +11,12 @@ Revenue
 
 It is measured based on these categories:
 
-Year
-Month
-State
-Store
-Customers
-Sales representatives
-Bike Category
+• Year
+• Month
+• State
+• Store
+• Bike Category
+• Sales representatives
+• Customers
+
+
